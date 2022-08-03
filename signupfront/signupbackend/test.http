@@ -1,0 +1,9 @@
+POST http://0.0.0.0:4000/app/signup
+Content-Type: application/json
+
+{
+    "fullName":"Eden",
+    "userName":"eden",
+    "email":"eden@gmail.com",
+    "password":"eden123"
+}
